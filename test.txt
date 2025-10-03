@@ -1,0 +1,55 @@
+--- Circular Linked List Menu ---
+1. Add Front
+2. Add End
+3. Add At Position
+4. Remove Front
+5. Remove End
+6. Remove At Position
+7. Search
+8. Traverse/Display
+9. Size
+10. Is Empty
+11. Clear
+12. Get Head
+13. Get Tail
+0. Exit
+Enter choice: 1
+Enter data: 10
+
+Enter choice: 2
+Enter data: 20
+
+Enter choice: 2
+Enter data: 30
+
+Enter choice: 3
+Enter data and position: 25 2
+
+Enter choice: 8
+10 -> 20 -> 25 -> 30 -> (back to head)
+
+Enter choice: 7
+Enter key: 25
+Found at position 2
+
+Enter choice: 4
+Enter choice: 8
+20 -> 25 -> 30 -> (back to head)
+
+Enter choice: 5
+Enter choice: 8
+20 -> 25 -> (back to head)
+
+Enter choice: 9
+Size: 2
+
+Enter choice: 10
+List is not empty
+
+Enter choice: 12
+Head: 20
+
+Enter choice: 13
+Tail: 25
+
+Enter choice: 0
